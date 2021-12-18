@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(25, 17, 34);
+    background-color: rgb(245, 222, 225);
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
