@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(140, 10, 216);
+}
+.imagestyle {
+    float:left
+
+}
+.bold {
+    font-weight: bold;
+}
+.imagestyle {
+    float: left;
+    padding-right: 5px;
+}
