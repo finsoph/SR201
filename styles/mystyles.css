@@ -1,15 +1,29 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(140, 10, 216);
-}
-.imagestyle {
-    float:left
 
+.ul {
+    font-weight: normal;
+    font-size: 18px;
+    font-variant-caps: normal;
 }
-.bold {
+
+.sectiontitle {
     font-weight: bold;
+    font-size: 24px;
+    font-variant-caps:all-petite-caps;
 }
-.imagestyle {
-    float: left;
-    padding-right: 5px;
+
+.resumefont {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.anchorfont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-variant-caps: all-petite-caps;
+    color:rgb(41, 42, 43);
+    float: right;
+    font-size: 24px;
+}
+
+
+
+

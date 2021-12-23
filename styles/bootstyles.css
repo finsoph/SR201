@@ -21,7 +21,7 @@ a:hover {
 .header {
     top: 5px;
     left: 10px;
-    right: 5px;
+    right: 10px;
     height: 250px;
     z-index: 2;
     border-bottom: solid 2px #eeeeee;
@@ -32,10 +32,44 @@ a:hover {
     text-align: center;
     font-weight: bold;
     font-size: 65px;
+    color: rgb(51, 22, 51);
 }
 
 .subheader {
     float: right;
     padding-right: 25px;
     
+}
+.anchorfont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-variant-caps: all-petite-caps;
+    color:rgb(41, 42, 43);
+    float: right;
+    font-size: 24px;
+}
+
+.mainbody {
+    top: 260px;
+    bottom: 61px;
+    left: 15px;
+    right: 15px;
+}
+
+.footer {
+    bottom: 1px;
+    height: 50px;
+    left: 10px;
+    right: 10px;
+    font-size: 14px;
+    text-align: center;
+    color: #999999;
+    position: fixed;
+    border-top: solid 2px #eeeeee;
+    background-color: rgb(245, 222, 225);
+}
+.sectionheader {
+    font-weight: bold;
+    font-size: 24px;
+   
 }
